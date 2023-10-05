@@ -28,4 +28,4 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         branch: gh-pages
-        folder: dist # Cambia esto al nombre de tu carpeta de construcción
+        folder: dist
